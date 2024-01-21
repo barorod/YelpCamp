@@ -38,8 +38,8 @@ const seedDB = async () => {
 					filename: 'YelpCamp/ezqtn81ccblvfiwtd1wp',
 				},
 				{
-					url: 'https://res.cloudinary.com/dgxczjtfa/image/upload/v1705150625/YelpCamp/jbp2qxk2dij1cyjiqmwl.png',
-					filename: 'YelpCamp/jbp2qxk2dij1cyjiqmwl',
+					url: 'https://res.cloudinary.com/dgxczjtfa/image/upload/v1705150625/YelpCamp/igrjy3eoescgegld2uf2',
+					filename: 'YelpCamp/igrjy3eoescgegld2uf2',
 				},
 			],
 		});
